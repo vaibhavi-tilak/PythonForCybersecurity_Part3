@@ -9,6 +9,7 @@ Welcome to Part 3 of the **Cybersecurity with Python** series! In this tutorial,
 Regular Expressions (RegEx) provide a flexible and efficient way to search, match, and manipulate textual data. The Python `re` module makes it easy to define custom patterns to identify data like IP addresses or sensitive PII data such as emails and phone numbers.
 
 ---
+![Alt text](https://github.com/vaibhavi-tilak/PythonForCybersecurity_Part3/blob/main/image.png)
 
 ## Table of Contents
 
